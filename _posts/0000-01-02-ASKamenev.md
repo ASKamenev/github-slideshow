@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Wow it's my first PR, awesome!
 Use the left arrow to go back!
